@@ -16,7 +16,7 @@ This project applies Machine Learning to automatically segment Spotify songs int
 ## 🚀 How to Run
 1. Clone this repository.
 2. Ensure you have the required libraries installed (`pip install pandas numpy scikit-learn matplotlib seaborn`).
-3. Run `minor.py`.
+3. Run `algorithm.py`.
 
 ## 📈 Sample Output
 *Target Song: "I Don't Care (with Justin Bieber) - Loud Luxury Remix" by Ed Sheeran*
